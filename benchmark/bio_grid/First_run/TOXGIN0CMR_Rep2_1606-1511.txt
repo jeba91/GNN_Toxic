@@ -1,0 +1,106 @@
+Sender: LSF System <lsfadmin@rivm-lsfsv-l18p.rivm.ssc-campus.nl>
+Subject: Job 450078: <python main_TUs_graph_classification.py --dataset CMR_Rep2 --config ./configs/test/TOXGIN0.json> in cluster <RIVM-LSF-PRD> Exited
+
+Job <python main_TUs_graph_classification.py --dataset CMR_Rep2 --config ./configs/test/TOXGIN0.json> was submitted from host <rivm-biohn-l03p.int.ssc-campus.nl> by user <baarsj> in cluster <RIVM-LSF-PRD> at Tue Jun 16 15:11:25 2020
+Job was executed on host(s) <rivm-lsfsv-l18p.rivm.ssc-campus.nl>, in queue <bio-tst>, as user <baarsj> in cluster <RIVM-LSF-PRD> at Tue Jun 16 15:11:03 2020
+</home/baarsj> was used as the home directory.
+</home/baarsj/Documents/GNN_rivm/benchmark> was used as the working directory.
+Started at Tue Jun 16 15:11:03 2020
+Terminated at Tue Jun 16 15:16:28 2020
+Results reported at Tue Jun 16 15:16:28 2020
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python main_TUs_graph_classification.py --dataset CMR_Rep2 --config ./configs/test/TOXGIN0.json
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with signal termination: 14.
+
+Resource usage summary:
+
+    CPU time :                                   165.73 sec.
+    Max Memory :                                 290 MB
+    Average Memory :                             170.90 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              3
+    Max Threads :                                8
+    Run time :                                   325 sec.
+    Turnaround time :                            303 sec.
+
+The output (if any) follows:
+
+  0%|          | 0/1000 [00:00<?, ?it/s]Epoch 0:   0%|          | 0/1000 [00:00<?, ?it/s]/home/baarsj/.local/lib/python3.7/site-packages/torch/nn/functional.py:1351: UserWarning: nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.
+  warnings.warn("nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.")
+Epoch 0:   0%|          | 0/1000 [00:04<?, ?it/s, lr=0.001, test_acc=0.54, time=4.44, train_acc=0.557, train_loss=0.679, val_acc=0.54, val_loss=0.58]Epoch 0:   0%|          | 1/1000 [00:04<1:15:24,  4.53s/it, lr=0.001, test_acc=0.54, time=4.44, train_acc=0.557, train_loss=0.679, val_acc=0.54, val_loss=0.58]Epoch 1:   0%|          | 1/1000 [00:04<1:15:24,  4.53s/it, lr=0.001, test_acc=0.54, time=4.44, train_acc=0.557, train_loss=0.679, val_acc=0.54, val_loss=0.58]Epoch 1:   0%|          | 1/1000 [00:10<1:15:24,  4.53s/it, lr=0.001, test_acc=0.6, time=6.24, train_acc=0.612, train_loss=0.634, val_acc=0.6, val_loss=0.603] Epoch 1:   0%|          | 2/1000 [00:10<1:24:10,  5.06s/it, lr=0.001, test_acc=0.6, time=6.24, train_acc=0.612, train_loss=0.634, val_acc=0.6, val_loss=0.603]Epoch 2:   0%|          | 2/1000 [00:10<1:24:10,  5.06s/it, lr=0.001, test_acc=0.6, time=6.24, train_acc=0.612, train_loss=0.634, val_acc=0.6, val_loss=0.603]Epoch 2:   0%|          | 2/1000 [00:17<1:24:10,  5.06s/it, lr=0.001, test_acc=0.564, time=6.66, train_acc=0.628, train_loss=0.618, val_acc=0.564, val_loss=0.612]Epoch 2:   0%|          | 3/1000 [00:17<1:32:12,  5.55s/it, lr=0.001, test_acc=0.564, time=6.66, train_acc=0.628, train_loss=0.618, val_acc=0.564, val_loss=0.612]Epoch 3:   0%|          | 3/1000 [00:17<1:32:12,  5.55s/it, lr=0.001, test_acc=0.564, time=6.66, train_acc=0.628, train_loss=0.618, val_acc=0.564, val_loss=0.612]Epoch 3:   0%|          | 3/1000 [00:22<1:32:12,  5.55s/it, lr=0.001, test_acc=0.607, time=4.48, train_acc=0.625, train_loss=0.603, val_acc=0.607, val_loss=0.571]Epoch 3:   0%|          | 4/1000 [00:22<1:27:07,  5.25s/it, lr=0.001, test_acc=0.607, time=4.48, train_acc=0.625, train_loss=0.603, val_acc=0.607, val_loss=0.571]Epoch 4:   0%|          | 4/1000 [00:22<1:27:07,  5.25s/it, lr=0.001, test_acc=0.607, time=4.48, train_acc=0.625, train_loss=0.603, val_acc=0.607, val_loss=0.571]Epoch 4:   0%|          | 4/1000 [00:26<1:27:07,  5.25s/it, lr=0.001, test_acc=0.591, time=4.38, train_acc=0.629, train_loss=0.59, val_acc=0.591, val_loss=0.58]  Epoch 4:   0%|          | 5/1000 [00:26<1:22:52,  5.00s/it, lr=0.001, test_acc=0.591, time=4.38, train_acc=0.629, train_loss=0.59, val_acc=0.591, val_loss=0.58]Epoch 5:   0%|          | 5/1000 [00:26<1:22:52,  5.00s/it, lr=0.001, test_acc=0.591, time=4.38, train_acc=0.629, train_loss=0.59, val_acc=0.591, val_loss=0.58]Epoch 5:   0%|          | 5/1000 [00:31<1:22:52,  5.00s/it, lr=0.001, test_acc=0.664, time=5.26, train_acc=0.646, train_loss=0.586, val_acc=0.664, val_loss=0.547]Epoch 5:   1%|          | 6/1000 [00:31<1:24:23,  5.09s/it, lr=0.001, test_acc=0.664, time=5.26, train_acc=0.646, train_loss=0.586, val_acc=0.664, val_loss=0.547]Epoch 6:   1%|          | 6/1000 [00:31<1:24:23,  5.09s/it, lr=0.001, test_acc=0.664, time=5.26, train_acc=0.646, train_loss=0.586, val_acc=0.664, val_loss=0.547]Epoch 6:   1%|          | 6/1000 [00:39<1:24:23,  5.09s/it, lr=0.001, test_acc=0.642, time=8.17, train_acc=0.659, train_loss=0.581, val_acc=0.642, val_loss=0.545]Epoch 6:   1%|          | 7/1000 [00:40<1:39:45,  6.03s/it, lr=0.001, test_acc=0.642, time=8.17, train_acc=0.659, train_loss=0.581, val_acc=0.642, val_loss=0.545]Epoch 7:   1%|          | 7/1000 [00:40<1:39:45,  6.03s/it, lr=0.001, test_acc=0.642, time=8.17, train_acc=0.659, train_loss=0.581, val_acc=0.642, val_loss=0.545]Epoch 7:   1%|          | 7/1000 [00:44<1:39:45,  6.03s/it, lr=0.001, test_acc=0.642, time=4.17, train_acc=0.653, train_loss=0.573, val_acc=0.642, val_loss=0.545]Epoch 7:   1%|          | 8/1000 [00:44<1:30:37,  5.48s/it, lr=0.001, test_acc=0.642, time=4.17, train_acc=0.653, train_loss=0.573, val_acc=0.642, val_loss=0.545]Epoch 8:   1%|          | 8/1000 [00:44<1:30:37,  5.48s/it, lr=0.001, test_acc=0.642, time=4.17, train_acc=0.653, train_loss=0.573, val_acc=0.642, val_loss=0.545]Epoch 8:   1%|          | 8/1000 [00:48<1:30:37,  5.48s/it, lr=0.001, test_acc=0.633, time=4.23, train_acc=0.648, train_loss=0.574, val_acc=0.633, val_loss=0.551]Epoch 8:   1%|          | 9/1000 [00:48<1:24:26,  5.11s/it, lr=0.001, test_acc=0.633, time=4.23, train_acc=0.648, train_loss=0.574, val_acc=0.633, val_loss=0.551]Epoch 9:   1%|          | 9/1000 [00:48<1:24:26,  5.11s/it, lr=0.001, test_acc=0.633, time=4.23, train_acc=0.648, train_loss=0.574, val_acc=0.633, val_loss=0.551]Epoch 9:   1%|          | 9/1000 [01:00<1:24:26,  5.11s/it, lr=0.001, test_acc=0.602, time=12.3, train_acc=0.637, train_loss=0.584, val_acc=0.602, val_loss=0.61] Epoch 9:   1%|          | 10/1000 [01:00<2:00:07,  7.28s/it, lr=0.001, test_acc=0.602, time=12.3, train_acc=0.637, train_loss=0.584, val_acc=0.602, val_loss=0.61]Epoch 10:   1%|          | 10/1000 [01:00<2:00:07,  7.28s/it, lr=0.001, test_acc=0.602, time=12.3, train_acc=0.637, train_loss=0.584, val_acc=0.602, val_loss=0.61]Epoch 10:   1%|          | 10/1000 [01:06<2:00:07,  7.28s/it, lr=0.001, test_acc=0.624, time=6.07, train_acc=0.643, train_loss=0.592, val_acc=0.624, val_loss=0.551]Epoch 10:   1%|          | 11/1000 [01:06<1:54:10,  6.93s/it, lr=0.001, test_acc=0.624, time=6.07, train_acc=0.643, train_loss=0.592, val_acc=0.624, val_loss=0.551]Epoch 11:   1%|          | 11/1000 [01:06<1:54:10,  6.93s/it, lr=0.001, test_acc=0.624, time=6.07, train_acc=0.643, train_loss=0.592, val_acc=0.624, val_loss=0.551]Epoch 11:   1%|          | 11/1000 [01:14<1:54:10,  6.93s/it, lr=0.001, test_acc=0.622, time=7.32, train_acc=0.623, train_loss=0.591, val_acc=0.622, val_loss=0.559]Epoch 11:   1%|          | 12/1000 [01:14<1:56:08,  7.05s/it, lr=0.001, test_acc=0.622, time=7.32, train_acc=0.623, train_loss=0.591, val_acc=0.622, val_loss=0.559]Epoch 12:   1%|          | 12/1000 [01:14<1:56:08,  7.05s/it, lr=0.001, test_acc=0.622, time=7.32, train_acc=0.623, train_loss=0.591, val_acc=0.622, val_loss=0.559]Epoch 12:   1%|          | 12/1000 [01:23<1:56:08,  7.05s/it, lr=0.001, test_acc=0.655, time=9.56, train_acc=0.648, train_loss=0.581, val_acc=0.655, val_loss=0.554]Epoch 12:   1%|▏         | 13/1000 [01:23<2:08:32,  7.81s/it, lr=0.001, test_acc=0.655, time=9.56, train_acc=0.648, train_loss=0.581, val_acc=0.655, val_loss=0.554]Epoch 13:   1%|▏         | 13/1000 [01:23<2:08:32,  7.81s/it, lr=0.001, test_acc=0.655, time=9.56, train_acc=0.648, train_loss=0.581, val_acc=0.655, val_loss=0.554]Epoch 13:   1%|▏         | 13/1000 [01:30<2:08:32,  7.81s/it, lr=0.001, test_acc=0.653, time=6.74, train_acc=0.658, train_loss=0.578, val_acc=0.653, val_loss=0.54] Epoch 13:   1%|▏         | 14/1000 [01:30<2:03:16,  7.50s/it, lr=0.001, test_acc=0.653, time=6.74, train_acc=0.658, train_loss=0.578, val_acc=0.653, val_loss=0.54]Epoch 14:   1%|▏         | 14/1000 [01:30<2:03:16,  7.50s/it, lr=0.001, test_acc=0.653, time=6.74, train_acc=0.658, train_loss=0.578, val_acc=0.653, val_loss=0.54]Epoch 14:   1%|▏         | 14/1000 [01:39<2:03:16,  7.50s/it, lr=0.001, test_acc=0.642, time=8.79, train_acc=0.637, train_loss=0.584, val_acc=0.642, val_loss=0.554]Epoch 14:   2%|▏         | 15/1000 [01:39<2:09:39,  7.90s/it, lr=0.001, test_acc=0.642, time=8.79, train_acc=0.637, train_loss=0.584, val_acc=0.642, val_loss=0.554]Epoch 15:   2%|▏         | 15/1000 [01:39<2:09:39,  7.90s/it, lr=0.001, test_acc=0.642, time=8.79, train_acc=0.637, train_loss=0.584, val_acc=0.642, val_loss=0.554]Epoch 15:   2%|▏         | 15/1000 [01:47<2:09:39,  7.90s/it, lr=0.001, test_acc=0.647, time=7.92, train_acc=0.647, train_loss=0.564, val_acc=0.647, val_loss=0.542]Epoch 15:   2%|▏         | 16/1000 [01:47<2:09:46,  7.91s/it, lr=0.001, test_acc=0.647, time=7.92, train_acc=0.647, train_loss=0.564, val_acc=0.647, val_loss=0.542]Epoch 16:   2%|▏         | 16/1000 [01:47<2:09:46,  7.91s/it, lr=0.001, test_acc=0.647, time=7.92, train_acc=0.647, train_loss=0.564, val_acc=0.647, val_loss=0.542]Epoch 16:   2%|▏         | 16/1000 [01:55<2:09:46,  7.91s/it, lr=0.001, test_acc=0.655, time=8.24, train_acc=0.656, train_loss=0.579, val_acc=0.655, val_loss=0.565]Epoch 16:   2%|▏         | 17/1000 [01:55<2:11:33,  8.03s/it, lr=0.001, test_acc=0.655, time=8.24, train_acc=0.656, train_loss=0.579, val_acc=0.655, val_loss=0.565]Epoch 17:   2%|▏         | 17/1000 [01:55<2:11:33,  8.03s/it, lr=0.001, test_acc=0.655, time=8.24, train_acc=0.656, train_loss=0.579, val_acc=0.655, val_loss=0.565]Epoch 17:   2%|▏         | 17/1000 [02:11<2:11:33,  8.03s/it, lr=0.001, test_acc=0.613, time=15.5, train_acc=0.641, train_loss=0.571, val_acc=0.613, val_loss=0.572]Epoch 17:   2%|▏         | 18/1000 [02:11<2:48:04, 10.27s/it, lr=0.001, test_acc=0.613, time=15.5, train_acc=0.641, train_loss=0.571, val_acc=0.613, val_loss=0.572]Epoch 18:   2%|▏         | 18/1000 [02:11<2:48:04, 10.27s/it, lr=0.001, test_acc=0.613, time=15.5, train_acc=0.641, train_loss=0.571, val_acc=0.613, val_loss=0.572]Epoch 18:   2%|▏         | 18/1000 [02:16<2:48:04, 10.27s/it, lr=0.001, test_acc=0.633, time=5.72, train_acc=0.639, train_loss=0.571, val_acc=0.633, val_loss=0.555]Epoch 18:   2%|▏         | 19/1000 [02:16<2:25:42,  8.91s/it, lr=0.001, test_acc=0.633, time=5.72, train_acc=0.639, train_loss=0.571, val_acc=0.633, val_loss=0.555]Epoch 19:   2%|▏         | 19/1000 [02:16<2:25:42,  8.91s/it, lr=0.001, test_acc=0.633, time=5.72, train_acc=0.639, train_loss=0.571, val_acc=0.633, val_loss=0.555]Epoch 19:   2%|▏         | 19/1000 [02:27<2:07:09,  7.78s/it, lr=0.001, test_acc=0.633, time=5.72, train_acc=0.639, train_loss=0.571, val_acc=0.633, val_loss=0.555]
+/home/baarsj/.local/lib/python3.7/site-packages/numpy/core/fromnumeric.py:3335: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+/home/baarsj/.local/lib/python3.7/site-packages/numpy/core/_methods.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+/home/baarsj/.local/lib/python3.7/site-packages/numpy/core/_methods.py:217: RuntimeWarning: Degrees of freedom <= 0 for slice
+  keepdims=keepdims)
+/home/baarsj/.local/lib/python3.7/site-packages/numpy/core/_methods.py:186: RuntimeWarning: invalid value encountered in true_divide
+  arrmean, rcount, out=arrmean, casting='unsafe', subok=False)
+/home/baarsj/.local/lib/python3.7/site-packages/numpy/core/_methods.py:209: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+cuda not available
+899
+preparing 899 graphs for the ALL set...
+[!] Dataset:  CMR_Rep2
+Time taken: 7.9708s
+MODEL DETAILS:
+
+MODEL/Total parameters: GIN 207892
+899
+preparing 899 graphs for the ALL set...
+[!] Dataset:  CMR_Rep2
+Time taken: 7.3629s
+RUN NUMBER:  0
+Training Graphs:  718
+Validation Graphs:  90
+Test Graphs:  90
+Number of Classes:  2
+-----------------------------------------------------------------------------------------
+Exiting from training early because of KeyboardInterrupt
+TOTAL TIME TAKEN: 0.0431hrs
+AVG TIME PER EPOCH: 7.1680s
+
+
+
+FINAL RESULTS
+
+BEST TR ACCURACY averaged: 6.6364 with s.d. 19.9091
+
+All splits Test Accuracies:
+ [0.6636363636363636, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+
+FINAL RESULTS
+
+BEST TE ACCURACY averaged: 6.5914 with s.d. 19.7743
+
+All splits Test Accuracies:
+ [0.6591420692074568, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+
+FINAL RESULTS
+
+TEST ACCURACY averaged: nan with s.d. nan
+
+All splits Test Accuracies:
+ []
+
+
+
+FINAL RESULTS
+
+TRAIN ACCURACY averaged: nan with s.d. nan
+
+All splits Train Accuracies:
+ []

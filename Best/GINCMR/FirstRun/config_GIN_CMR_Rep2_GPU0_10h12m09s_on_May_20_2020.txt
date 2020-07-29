@@ -1,0 +1,10 @@
+Dataset: CMR_Rep2,
+Model: GIN
+
+params={'seed': 79, 'epochs': 1000, 'batch_size': 20, 'init_lr': 0.001, 'lr_reduce_factor': 0.5, 'lr_schedule_patience': 25, 'min_lr': 1e-10, 'weight_decay': 0.0, 'print_epoch_interval': 5, 'max_time': 48}
+
+net_params={'L': 4, 'hidden_dim': 96, 'residual': True, 'readout': 'mean', 'n_mlp_GIN': 2, 'learn_eps_GIN': True, 'neighbor_aggr_GIN': 'sum', 'in_feat_dropout': 0, 'dropout': 0, 'graph_norm': True, 'batch_norm': True, 'device': device(type='cpu'), 'gpu_id': 0, 'batch_size': 20, 'in_dim': 25, 'n_classes': 2, 'total_param': 80270}
+
+
+Total Parameters: 80270
+

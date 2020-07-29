@@ -1,0 +1,313 @@
+﻿CAS-nummer	EG-nummer	Nederlands stofnaam	Engelse stofnaam	pZZS wegens RMOA	pZZS wegens ED beoordelingslijst	pZZS wegens PBT beoordelingslijst	pZZS wegens CORAP	pZZS wegens ROI	Stofklasse voor luchtemissies	Grensmassastroom	Emissiegrenswaarde	Datum toevoeging	Voetnoot1	Voetnoot2	Voetnoot3	
+36861-47-9	253-242-6	(±)-1,7,7-trimethyl-3-[(4-methylfenyl)methyleen]bicyclo[2.2.1]-2-heptanon (4-methylbenzylideenkamfer)	(±)-1,7,7-trimethyl-3-[(4-methylphenyl)methylene]bicyclo[2.2.1]heptan-2-one (4-Methylbenzylidenecamphor)		Ja		Ja					19-01-2018	
+25155-25-3	246-678-3	[1,3(or 1,4)-fenyleenbis(1-methylethylideen)]bis[tert-butyl] peroxide	[1,3(or 1,4)-phenylenebis(1-methylethylidene)]bis[tert-butyl] peroxide			Ja	Ja					19-01-2018	
+32388-55-9	251-020-3	[3R-(3α,3aβ,7β,8aα)]-1-(2,3,4,7,8,8a-hexahydro-3,6,8,8-tetramethyl-1H-3a,7-methanoazuleen-5-yl)-1-ethanon	[3R-(3α,3aβ,7β,8aα)]-1-(2,3,4,7,8,8a-hexahydro-3,6,8,8-tetramethyl-1H-3a,7-methanoazulen-5-yl)ethan-1-one				Ja					19-01-2018	
+41272-40-6	255-288-2	[4-[α-[4-(dimethylamino)phenyl]benzylidene]cyclohexa-2,5-dien-1-ylidene]dimethylammonium acetate	[4-[α-[4-(dimethylamino)phenyl]benzylidene]cyclohexa-2,5-dien-1-ylidene]dimethylammonium acetate	Ja								19-01-2018	
+2425-85-6	219-372-2	1-(4-methyl-2-nitrophenylazo)-2-naphthol	1-(4-methyl-2-nitrophenylazo)-2-naphthol				Ja					01-05-2020	
+		1-(5,6,7,8-tetrahydro-3,5,5,6,8,8-hexamethyl-2-naftyl)1-ethanon	1-(5,6,7,8-tetrahydro-3,5,5,6,8,8-hexamethyl-2-naphthyl)ethan-1-one		Ja		Ja					19-01-2018	
+17928-28-8	241-867-7	1,1,1,3,5,5,5-heptamethyl-3-[(trimethylsilyl)oxy]trisiloxane	1,1,1,3,5,5,5-heptamethyl-3-[(trimethylsilyl)oxy]trisiloxane			Ja	Ja					19-01-2018	
+1873-88-7	217-496-1	1,1,1,3,5,5,5-heptamethyltrisiloxane	1,1,1,3,5,5,5-heptamethyltrisiloxane			Ja	Ja					19-01-2018	
+288-88-0	206-022-9	1,2,4-triazool	1,2,4-triazole		Ja		Ja	Ja				19-01-2018	
+	941-303-6	1,2,4-trinonyl benzene-1,2,4-tricarboxylate	1,2,4-trinonyl benzene-1,2,4-tricarboxylate				Ja					19-01-2018	
+68515-47-9	271-089-3	1,2-benzeendicarboxylzuur, di-C11-14-vertakte alkyl esters, C13-rijk	1,2-benzenedicarboxylic acid, di-C11-14-branched alkyl esters, C13-rich				Ja					19-01-2018	
+68515-40-2	271-082-5	1,2-Benzenedicarboxylic acid, benzyl C7-9-branched and linear alkyl esters	1,2-Benzenedicarboxylic acid, benzyl C7-9-branched and linear alkyl esters				Ja					19-01-2018	
+	700-989-5	1,2-benzenedicarboxylic acid, di-C10-12-branched alkyl esters	1,2-benzenedicarboxylic acid, di-C10-12-branched alkyl esters			Ja	Ja					19-01-2018	
+68515-43-5	271-085-1	1,2-benzenedicarboxylic acid, di-C9-11-branched and linear alkyl esters	1,2-benzenedicarboxylic acid, di-C9-11-branched and linear alkyl esters				Ja					19-01-2018	
+95-50-1	202-425-9	1,2-dichloorbenzeen	1,2-dichlorobenzene				Ja		gO.1	100 g/uur	20 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+13014-24-9	235-869-7	1,2-dichloro-4-(trichloromethyl)benzene	1,2-dichloro-4-(trichloromethyl)benzene			Ja						19-01-2018	
+1222-05-5	214-946-9	1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethylindeno[5,6-c]pyran	1,3,4,6,7,8-hexahydro-4,6,6,7,8,8-hexamethylindeno[5,6-c]pyran		Ja	Ja						15-04-2019	
+105-55-5	203-308-5	1,3-diethyl-2-thioureum	1,3-diethyl-2-thiourea				Ja					05-11-2019	
+68953-83-3	273-226-2	1,4-Benzenediamine, N,N'-mixed Ph and tolyl and xylyl derivs.	1,4-Benzenediamine, N,N'-mixed Ph and tolyl and xylyl derivs.			Ja						19-01-2018	
+68953-84-4	273-227-8	1,4-Benzenediamine, N,N'-mixed Ph and tolyl derivs.	1,4-Benzenediamine, N,N'-mixed Ph and tolyl derivs.			Ja	Ja	Ja				19-01-2018	
+68478-45-5	270-820-3	1,4-Benzenediamine, N,N'-mixed tolyl and xylyl derivs.	1,4-Benzenediamine, N,N'-mixed tolyl and xylyl derivs.			Ja						19-01-2018	
+3468-63-1	222-429-4	1-[(2,4-dinitrophenyl)azo]-2-naphthol	1-[(2,4-dinitrophenyl)azo]-2-naphthol				Ja					19-01-2018	
+2814-77-9	220-562-2	1-[(2-chloro-4-nitrophenyl)azo]-2-naphthol	1-[(2-chloro-4-nitrophenyl)azo]-2-naphthol				Ja					05-11-2019	
+70356-09-1	274-581-6	1-[4-(1,1-dimethylethyl)phenyl]-3-(4-methoxyphenyl)propane-1,3-dione	1-[4-(1,1-dimethylethyl)phenyl]-3-(4-methoxyphenyl)propane-1,3-dione			Ja	Ja					19-01-2018	
+42074-68-0	255-647-3	1-chloro-2-(chlorodiphenylmethyl)benzene	1-chloro-2-(chlorodiphenylmethyl)benzene			Ja						19-01-2018	
+629-73-2	211-105-8	1-hexadeceen	hexadec-1-ene			Ja						19-01-2018	
+1594-08-7	216-475-4	1-hydroxy-4-[[4-[(methylsulfonyl)oxy]fenyl]amino]anthrachinon	1-hydroxy-4-[[4-[(methylsulphonyl)oxy]phenyl]amino]anthraquinone				Ja					05-11-2019	
+108-03-2	203-544-9	1-nitropropaan	1-nitropropane					Ja				15-04-2019	
+98-85-1	202-707-1	1-phenylethanol	1-phenylethanol				Ja					19-01-2018	
+3147-75-9	221-573-5	2-(2H-benzotriazol-2-yl)-4-(1,1,3,3-tetramethylbutyl)phenol	2-(2H-benzotriazol-2-yl)-4-(1,1,3,3-tetramethylbutyl)phenol		Ja	Ja	Ja					19-01-2018	
+125304-04-3		2-(2H-benzotriazol-2-yl)-6-dodecyl-4-phenol, branched and linear	2-(2H-benzotriazol-2-yl)-6-dodecyl-4-phenol, branched and linear	Ja								19-01-2018	
+70321-86-7	274-570-6	2-(2H-benzotriazool-2-yl)-4,6-bis(1-methyl-1-fenylethyl)fenol	2-(2H-benzotriazol-2-yl)-4,6-bis(1-methyl-1-phenylethyl)phenol	Ja		Ja						19-01-2018	
+73936-91-1	422-600-5	2-(2H-benzotriazool-2-yl)-6-(1-methyl-1-fenylethyl)-4-(1,1,3,3-tetramethylbutyl)fenol	2-(2H-Benzotriazole-2-yl)-6-(1-methyl-1-phenylethyl)-4-(1,1,3,3-tetramethylbutyl)phenol	Ja		Ja						19-01-2018	
+3896-11-5	223-445-4	2-(2'-Hydroxy -3' -tert-butyl-5'-methylfenyl)-5-chloor benzotriazool	2-(2'-Hydroxy -3' -tert-butyl-5'-methylphenyl)-5-chloro benzotriazole	Ja								19-01-2018	
+80-54-6	201-289-8	2-(4-tert-butylbenzyl)propionaldehyde	2-(4-tert-butylbenzyl)propionaldehyde		Ja		Ja					05-11-2019	
+119344-86-4	438-340-0	2-(dimethylamino)-2-[(4-methylphenyl)methyl]-1-[4-(morpholin-4-yl)phenyl]butan-1-one	2-(dimethylamino)-2-[(4-methylphenyl)methyl]-1-[4-(morpholin-4-yl)phenyl]butan-1-one					Ja				01-05-2020	
+131-55-5	205-028-9	2,2',4,4'-tetrahydroxybenzophenone	2,2',4,4'-tetrahydroxybenzophenone	Ja								19-01-2018	
+	926-564-6	2,2',6,6'-Tetrabromo-4,4'-isopropylidenediphenol, oligomeric reaction products with Propylene oxide and n-butyl glycidyl ether	2,2',6,6'-Tetrabromo-4,4'-isopropylidenediphenol, oligomeric reaction products with Propylene oxide and n-butyl glycidyl ether				Ja					05-11-2019	
+118-82-1	204-279-1	2,2′,6,6′-Tetra-tert-butyl-4,4′- methylenediphenol	2,2′,6,6′-Tetra-tert-butyl-4,4′- methylenediphenol		Ja	Ja	Ja					19-01-2018	
+6864-37-5	229-962-1	2,2'-dimethyl-4,4'-methylenebis(cyclohexylamine)	2,2'-dimethyl-4,4'-methylenebis(cyclohexylamine)		Ja		Ja					19-01-2018	
+111-42-2	203-868-0	2,2'-iminodiethanol	2,2'-iminodiethanol				Ja		gO.2	500 g/uur	50 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+2210-79-9	218-645-3	2,3-epoxypropyl o-tolyl ether	2,3-epoxypropyl o-tolyl ether				Ja					19-01-2018	
+101-37-1	202-936-7	2,4,6-triallyloxy-1,3,5-triazine	2,4,6-triallyloxy-1,3,5-triazine			Ja						19-01-2018	
+118-79-6	204-278-6	2,4,6-tribroomfenol	2,4,6-tribromophenol			Ja	Ja		gO.1	100 g/uur	20 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+2374-14-3	219-154-7	2,4,6-trimethyl-2,4,6-tris(3,3,3-trifluoropropyl)cyclotrisiloxane	2,4,6-trimethyl-2,4,6-tris(3,3,3-trifluoropropyl)cyclotrisiloxane	Ja								19-01-2018	
+25713-60-4	426-040-2	2,4,6-tris(2,4,6-tribroomfenoxy)-1,3,5-triazine	2,4,6-tris(2,4,6-tribromophenoxy)-1,3,5-triazine	Ja		Ja						05-11-2019	
+131-56-6	205-029-4	2,4-dihydroxybenzophenone	2,4-dihydroxybenzophenone	Ja								19-01-2018	
+96-76-4	202-532-0	2,4-di-tert-butylfenol	2,4-di-tert-butylphenol		Ja		Ja					19-01-2018	
+29736-75-2	249-820-2	2,5,7,10,11,14-hexaoxa-1,6-distibabicyclo[4.4.4]tetradecane	2,5,7,10,11,14-hexaoxa-1,6-distibabicyclo[4.4.4]tetradecane				Ja					11-09-2018	
+89-61-2	201-923-3	2,5-dichloornitrobenzeen	1,4-dichloro-2-nitrobenzene					Ja				01-05-2020	
+79-74-3	201-222-2	2,5-di-tert-pentylhydroquinone	2,5-di-tert-pentylhydroquinone			Ja	Ja					19-01-2018	
+3891-98-3	622-542-2	2,6,10-trimethyldodecaan 	2,6,10-trimethyldodecane				Ja					19-01-2018	
+15307-93-4	239-349-0	2,6-dichloro-N-phenylaniline	2,6-dichloro-N-phenylaniline			Ja						19-01-2018	
+128-37-0	204-881-4	2,6-di-tert-butyl-p-kresol	2,6-di-tert-butyl-p-cresol	Ja	Ja		Ja					01-05-2020	
+5521-31-3	226-866-1	2,9-dimethylanthra[2,1,9-def:6,5,10-d'e'f']diisoquinoline-1,3,8,10(2H,9H)-tetrone	2,9-dimethylanthra[2,1,9-def:6,5,10-d'e'f']diisoquinoline-1,3,8,10(2H,9H)-tetrone				Ja					05-11-2019	
+6358-31-2	228-768-4	2-[(2-methoxy-4-nitrophenyl)azo]-N-(2-methoxyphenyl)-3-oxobutyramide	2-[(2-methoxy-4-nitrophenyl)azo]-N-(2-methoxyphenyl)-3-oxobutyramide				Ja					05-11-2019	
+6486-23-3	229-355-1	2-[(4-chloro-2-nitrophenyl)azo]-N-(2-chlorophenyl)-3-oxobutyramide	2-[(4-chloro-2-nitrophenyl)azo]-N-(2-chlorophenyl)-3-oxobutyramide				Ja					05-11-2019	
+6528-34-3	229-419-9	2-[(4-methoxy-2-nitrophenyl)azo]-N-(2-methoxyphenyl)-3-oxobutyramide	2-[(4-methoxy-2-nitrophenyl)azo]-N-(2-methoxyphenyl)-3-oxobutyramide				Ja					05-11-2019	
+32492-61-8	500-082-2	2-[4-[2-[4-(2-hydroxyethoxy)phenyl]propan-2-yl]phenoxy]ethanol	2-[4-[2-[4-(2-hydroxyethoxy)phenyl]propan-2-yl]phenoxy]ethanol				Ja					19-01-2018	
+1514-82-5	627-872-0	2-bromo-3,3,3-trifluoroprop-1-ene	2-bromo-3,3,3-trifluoroprop-1-ene		Ja		Ja					05-11-2019	
+	484-410-9	2-ethoxy-3,3,4,4,5-pentafluor-2,5-bis[(1,2,2,2-tetrafluor-1-trifluormethyl)ethyl] tetrahydrofuran	2-Ethoxy-3,3,4,4,5-pentafluoro-2,5-bis[(1,2,2,2-tetrafluoro-1-trifluoromethyl)ethyl] tetrahydrofuran			Ja	Ja					05-11-2019	
+931-36-2	213-234-5	2-ethyl-4-methylimidazole	2-ethyl-4-methylimidazole					Ja				05-11-2019	
+118-60-5	204-263-4	2-ethylhexyl salicylate	2-ethylhexyl salicylate				Ja					01-09-2018	
+83834-59-7	629-661-9	2-ethylhexyl trans-4-methoxycinnamate	2-ethylhexyl trans-4-methoxycinnamate		Ja	Ja	Ja					19-01-2018	
+2425-77-6	219-370-1	2-Hexyldecan-1-ol	2-Hexyldecan-1-ol			Ja						19-01-2018	
+868-77-9	212-782-2	2-hydroxyethyl methacrylate	2-hydroxyethyl methacrylate				Ja					19-01-2018	
+232938-43-1	432-520-2	3-({[(4-methylphenyl)sulfonyl]carbamoyl}amino)phenyl 4-methylbenzenesulfonate	3-({[(4-methylphenyl)sulfonyl]carbamoyl}amino)phenyl 4-methylbenzenesulfonat				Ja					05-11-2019	
+18127-01-0	242-016-2	3-(4-tert-butylphenyl)propion aldehyde	3-(4-tert-butylphenyl)propion aldehyde				Ja					19-01-2018	
+17527-29-6	241-527-8	3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl acrylate	3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl acrylate		Ja	Ja	Ja					19-01-2018	
+2144-53-8	218-407-9	3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl methacrylate	3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl methacrylate		Ja	Ja	Ja					19-01-2018	
+91-97-4	202-112-7	3,3'-dimethylbiphenyl-4,4'-diyl diisocyanate	3,3'-dimethylbiphenyl-4,4'-diyl diisocyanate				Ja	Ja				05-11-2019	
+3302-10-1	221-975-0	3,5,5-trimethylhexanoic acid	3,5,5-trimethylhexanoic acid				Ja					19-01-2018	
+67-51-6	200-657-5	3,5-dimethylpyrazole	3,5-dimethylpyrazole				Ja					19-01-2018	
+505-32-8	208-008-8	3,7,11,15-tetramethyl-1-hexadecen-3-ol	3,7,11,15-tetramethylhexadec-1-en-3-ol			Ja						19-01-2018	
+591-27-5	209-711-2	3-aminofenol	3-aminophenol				Ja					01-05-2020	
+109-55-7	203-680-9	3-aminopropyldimethylamine	3-aminopropyldimethylamine				Ja					19-01-2018	
+	416-600-4	3-butyl-1-[4-({4-[(butylcarbamoyl)amino]fenyl}methyl)fenyl]urea	3-butyl-1-[4-({4-[(butylcarbamoyl)amino]phenyl}methyl)phenyl]urea			Ja						19-01-2018	
+297730-93-9	435-790-1	3-ethoxy-1,1,1,2,3,4,4,5,5,6,6,6-dodecafluoro-2-(trifluoromethyl)-hexane	3-ethoxy-1,1,1,2,3,4,4,5,5,6,6,6-dodecafluoro-2-(trifluoromethyl)-hexane			Ja	Ja					11-09-2018	
+	931-312-3	3-isocyanatomethyl-3,5,5-trimethylcyclohexyl isocyanate homopolymer, isocyanurate type	3-isocyanatomethyl-3,5,5-trimethylcyclohexyl isocyanate homopolymer, isocyanurate type			Ja						19-01-2018	
+	484-450-7	3M(TM) NOVEC(TM) ENGINEERED FLUID HFE-7000 				Ja	Ja					05-11-2019	
+123-51-3	204-633-5	3-methylbutan-1-ol	3-methylbutan-1-ol				Ja					19-01-2018	
+1453-58-3	215-925-7	3-methylpyrazole	3-methylpyrazole		Ja		Ja					19-01-2018	
+2530-85-0	219-785-8	3-trimethoxysilylpropyl methacrylate	3-trimethoxysilylpropyl methacrylate				Ja					19-01-2018	
+95235-30-6	405-520-5	4-(4-isopropoxyfenylsulfonyl)fenol	4-(4-isopropoxyphenylsulfonyl)phenol				Ja					05-11-2019	
+13595-25-0	428-970-4	4,4'-(1,3-phenylene-bis(1-methylethylidene))bisphenol	4,4'-(1,3-phenylene-bis(1-methylethylidene))bisphenol		Ja	Ja	Ja					19-01-2018	
+77-40-7	201-025-1	4,4'-(1-methylpropylidene)bisphenol	4,4'-(1-methylpropylidene)bisphenol	Ja	Ja			Ja				19-01-2018	
+10254-57-6	233-593-1	4,4'-methylene bis(dibutyldithiocarbamate)	4,4'-methylene bis(dibutyldithiocarbamate)				Ja					11-09-2018	
+28768-32-3	249-204-3	4,4'-methylenebis[N,N-bis(2,3-epoxypropyl)aniline]	4,4'-methylenebis[N,N-bis(2,3-epoxypropyl)aniline]				Ja					19-01-2018	
+5384-21-4	226-378-9	4,4'-methylenedi-2,6-xylenol	4,4'-methylenedi-2,6-xylenol	Ja								19-01-2018	
+620-92-8	210-658-2	4,4'-methylenediphenol	4,4'-methylenediphenol	Ja	Ja							19-01-2018	
+37353-75-6	500-097-4	4,4'-propane-2,2-diyldiphenol, polymer with 2-methyloxirane	4,4'-propane-2,2-diyldiphenol, polymer with 2-methyloxirane		Ja		Ja					19-01-2018	
+80-09-1	201-250-5	4,4'-sulfonyldiphenol	4,4'-sulfonyldiphenol	Ja	Ja		Ja	Ja				19-01-2018	
+123-30-8	204-616-2	4-aminofenol	4-aminophenol				Ja					01-05-2020	
+27459-10-5		4-isododecylfenol	Phenol, 4-isododecyl-	Ja								05-11-2019	
+27147-75-7	608-055-8	4-isododecylfenol	phenol, 4-isododecyl	Ja								05-11-2019	
+822-36-6	212-497-3	4-methylimidazole						Ja				15-04-2019	
+59-89-2	627-564-6	4-nitrosomorpholine	4-Nitrosomorpholine					Ja				11-09-2018	
+2835-95-2	220-618-6	5-amino-o-cresol	5-amino-o-cresol				Ja					01-05-2020	
+6196-98-1	400-370-7	6-(1-fenylethyl)-1,2,3,4-tetrahydronaftaleen	6-(1-phenylethyl)-1,2,3,4-tetrahydronaphthalene				Ja					05-11-2019	
+119-47-1	204-327-1	6,6'-di-tert-butyl-2,2'-methylenedi-p-cresol	6,6'-di-tert-butyl-2,2'-methylenedi-p-cresol	Ja			Ja	Ja				19-01-2018	
+85-60-9	201-618-5	6,6'-di-tert-butyl-4,4'-butylidenedi-m-cresol	6,6'-di-tert-butyl-4,4'-butylidenedi-m-cresol		Ja		Ja					19-01-2018	
+96-69-5	202-525-2	6,6'-di-tert-butyl-4,4'-thiodi-m-cresol	6,6'-di-tert-butyl-4,4'-thiodi-m-cresol		Ja	Ja	Ja					19-01-2018	
+	701-162-1	6-[C12-18-alkyl-(branched, unsaturated)-2,5-dioxopyrrolidin-1-yl]hexanoic acid	6-[C12-18-alkyl-(branched, unsaturated)-2,5-dioxopyrrolidin-1-yl]hexanoic acid					Ja				15-04-2019	
+	701-271-4	6-[C12-18-alkyl-(branched, unsaturated)-2,5-dioxopyrrolidin-1-yl]hexanoic acid, sodium and tris(2-hydroxyethyl)ammonium salts	6-[C12-18-alkyl-(branched, unsaturated)-2,5-dioxopyrrolidin-1-yl]hexanoic acid, sodium and tris(2-hydroxyethyl)ammonium salts					Ja				15-04-2019	
+1879-09-0	217-533-1	6-tert-butyl-2,4-xylenol	6-tert-butyl-2,4-xylenol	Ja								19-01-2018	
+106-87-6	203-437-7	7-oxa-3-oxiranylbicyclo[4.1.0]heptane	7-oxa-3-oxiranylbicyclo[4.1.0]heptane					Ja				19-01-2018	
+127519-17-9	407-000-3	A mixture of branched and linear C7-C9 alkyl 3-[3-(2H-benzotriazol-2-yl)-5-(1,1-dimethylethyl)-4-hydroxyphenyl]propionates	A mixture of branched and linear C7-C9 alkyl 3-[3-(2H-benzotriazol-2-yl)-5-(1,1-dimethylethyl)-4-hydroxyphenyl]propionates			Ja						11-09-2018	
+137398-54-0	403-030-6	A mixture of: O,O-di(1-methylethyl)trithio-bis-thioformate,O,O-di(1-methylethyl)tetrathio-bis-thioformate,O,O-di(1-methylethyl)pentathio-bis-thioformate	A mixture of: O,O-di(1-methylethyl)trithio-bis-thioformate,O,O-di(1-methylethyl)tetrathio-bis-thioformate,O,O-di(1-methylethyl)pentathio-bis-thioformate			Ja	Ja					19-01-2018	
+797751-44-1	458-680-3	A mixture of: propan-2-one-O,O'(methoxyvinylsilandiyl)dioxime; propan-2-one-O-(dimethoxyvinylsilyl)oxime; propan-2-one-O,O',O''-(vinylsilantriyl)trioxime	A mixture of: propan-2-one-O,O'(methoxyvinylsilandiyl)dioxime; propan-2-one-O-(dimethoxyvinylsilyl)oxime; propan-2-one-O,O',O''-(vinylsilantriyl)trioxime				Ja					19-01-2018	
+192268-65-8	421-820-9	a mixture of: triphenylthiophosphate and tertiary butylated phenyl derivatives	a mixture of: triphenylthiophosphate and tertiary butylated phenyl derivatives				Ja					19-01-2018	
+84539-55-9	283-044-5	Acetic acid, oxo-, sodium salt, reaction products with ethylenediamine and phenol, iron sodium salts	Acetic acid, oxo-, sodium salt, reaction products with ethylenediamine and phenol, iron sodium salts				Ja					11-09-2018	
+127-06-0	204-820-1	acetone oxime	acetone oxime				Ja					19-01-2018	
+1506-02-1	216-133-4	acetyl hexamethyl tetralin	acetyl hexamethyl tetralin				Ja					19-01-2018	
+25584-83-2	247-118-0	Acrylic acid, monoester with propane-1,2-diol	Acrylic acid, monoester with propane-1,2-diol				Ja					19-01-2018	
+85535-85-9	287-477-0	Alkanen, C14-17, chloor	Alkanes, C14-17, chloro	Ja								19-01-2018	
+	700-992-1	Alkanes, C16–(branched), C20-(branched) and C24-(branched)	Alkanes, C16–(branched), C20-(branched) and C24-(branched)			Ja	Ja					19-01-2018	
+	931-700-2	Alkyl Dimethyl Betaine	Alkyl Dimethyl Betaine				Ja					19-01-2018	
+1327-41-9	215-477-2	Aluminium chloride basic	Aluminium chloride basic				Ja					19-01-2018	
+10043-01-3	233-135-0	Aluminium sulphate	Aluminium sulphate				Ja					19-01-2018	
+7446-70-0	231-208-1	aluminiumchloride	aluminium chloride				Ja					19-01-2018	
+		amfotere gefluoreerde surfactant	Amphoteric Fluorinated Surfactant			Ja	Ja					11-09-2018	
+308062-28-4	931-292-6	Amines, C12-14 (even numbered)-alkyldimethyl, N-oxides	Amines, C12-14 (even numbered)-alkyldimethyl, N-oxides				Ja					19-01-2018	
+	480-310-4	ammonium 2,2,3 trifluor-3-(1,1,2,2,3,3-hexafluoro-3-trifluormethoxypropoxy), propionate	ammonium 2,2,3 trifluor-3-(1,1,2,2,3,3-hexafluoro-3-trifluormethoxypropoxy), propionate			Ja	Ja					19-01-2018	
+12124-97-9	235-183-8	Ammonium bromide	Ammonium bromide					Ja				19-01-2018	
+908020-52-0	700-323-3	ammonium difluoro[1,1,2,2-tetrafluoro-2-(pentafluoroethoxy)ethoxy]acetate	ammonium difluoro[1,1,2,2-tetrafluoro-2-(pentafluoroethoxy)ethoxy]acetate			Ja	Ja					19-01-2018	
+	700-403-8	Ammonium salts of  mono- and  bis[3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl  and/or poly (substituted  alkene)] phosphate	Ammonium salts of  mono- and  bis[3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl  and/or poly (substituted  alkene)] phosphate			Ja	Ja					19-01-2018	
+7790-98-9	232-235-1	ammoniumperchloraat	ammonium perchlorate				Ja					19-01-2018	
+5160-02-1	225-935-3	Barium bis[2-chloro-5-[(2-hydroxy-1-naphthyl)azo]toluene-4-sulphonate]	Barium bis[2-chloro-5-[(2-hydroxy-1-naphthyl)azo]toluene-4-sulphonate]				Ja					19-01-2018	
+100-52-7	202-860-4	benzaldehyde	benzaldehyde				Ja		gO.1	100 g/uur	20 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+68411-46-1	270-128-1	Benzenamine, N-phenyl-, reaction products with 2,4,4-trimethylpentene	Benzenamine, N-phenyl-, reaction products with 2,4,4-trimethylpentene				Ja					19-01-2018	
+101357-15-7	309-912-6	Benzenamine, reaction products with aniline hydrochloride and nitrobenzene	Benzenamine, reaction products with aniline hydrochloride and nitrobenzene				Ja					19-01-2018	
+84961-70-6	284-660-7	Benzene, mono-C10-13-alkyl derivs., distn. residues	Benzene, mono-C10-13-alkyl derivs., distn. residues			Ja	Ja					19-01-2018	
+2156592-70-8	810-801-4	Benzene, mono-C11-C13-branched alkyl derivatives	Benzene, mono-C11-C13-branched alkyl derivatives			Ja	Ja					11-09-2018	
+95-14-7	202-394-1	benzotriazool	benzotriazole		Ja		Ja					19-01-2018	
+118-58-1	204-262-9	Benzyl salicylate	Benzyl salicylate				Ja					11-09-2018	
+577705-90-9	479-100-5	benzyl(diethylamino)diphenylphosphonium 4-[1,1,1,3,3,3-hexafluoro-2-(4-hydroxyphenyl)propan-2-yl]phenolate	benzyl(diethylamino)diphenylphosphonium 4-[1,1,1,3,3,3-hexafluoro-2-(4-hydroxyphenyl)propan-2-yl]phenolate					Ja				01-05-2020	
+27776-01-8	248-654-8	Benzyltoluene	Benzyltoluene			Ja						19-01-2018	
+92-52-4	202-163-5	bifenyl	biphenyl			Ja	Ja		sO	200 g/uur	5/20 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+154702-15-5	421-450-8	Bis(2-ethylhexyl) 4,4’-{6-[4-tert-butylcarbamoyl)anilino]-1,3,5-triazine-2,4-diyldiimino}dibenzoate	Bis(2-ethylhexyl) 4,4’-{6-[4-tert-butylcarbamoyl)anilino]-1,3,5-triazine-2,4-diyldiimino}dibenzoate			Ja	Ja					19-01-2018	
+103-23-1	203-090-1	Bis(2-ethylhexyl) adipate	Bis(2-ethylhexyl) adipate				Ja					19-01-2018	
+106-20-7	203-372-4	bis(2-ethylhexyl)amine	bis(2-ethylhexyl)amine				Ja					05-11-2019	
+53306-54-0	258-469-4	Bis(2-propylheptyl) phthalate	Bis(2-propylheptyl) phthalate				Ja					19-01-2018	
+80-07-9	201-247-9	bis(4-chlorophenyl) sulphone	bis(4-chlorophenyl) sulphone			Ja	Ja					19-01-2018	
+55-55-0	200-237-1	bis(4-hydroxy-N-methylanilinium) sulfaat	bis(4-hydroxy-N-methylanilinium) sulphate				Ja					01-05-2020	
+13927-71-4	237-695-7	Bis(dibutyldithiocarbamato-S,S')copper	Bis(dibutyldithiocarbamato-S,S')copper				Ja					19-01-2018	
+38640-62-9	254-052-6	Bis(isopropyl)naphthalene	Bis(isopropyl)naphthalene			Ja	Ja					19-01-2018	
+36878-20-3	253-249-4	Bis(nonylphenyl)amine	Bis(nonylphenyl)amine				Ja					19-01-2018	
+19372-44-2	243-001-3	bis(pentane-2,4-dionato)calcium	bis(pentane-2,4-dionato)calcium				Ja					19-01-2018	
+80-43-3	201-279-3	bis(α,α-dimethylbenzyl) peroxide	bis(α,α-dimethylbenzyl) peroxide			Ja	Ja					19-01-2018	
+431-03-8	207-069-8	butaandion	butanedione	Ja								11-09-2018	
+78-93-3	201-159-0	butanon	butanone				Ja		gO.2	500 g/uur	50 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+1333-86-4	215-609-9	carbon black	carbon black				Ja		S	200 g/uur	5/20 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+1306-38-3	215-150-4	cerium dioxide	cerium dioxide				Ja					19-01-2018	
+2921-88-2	220-864-4	chloorpyrifos	chlorpyrifos			Ja						19-01-2018	
+38083-17-9	253-775-4	Climbazole	Climbazole		Ja		Ja					19-01-2018	
+91-17-8	202-046-9	decahydronaftaleen	decahydronaphthalene			Ja	Ja		gO.2	500 g/uur	50 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+141-62-8	205-491-7	decamethyltetrasiloxane	decamethyltetrasiloxane			Ja	Ja					19-01-2018	
+53585-53-8	258-649-2	dibenzylbenzene, ar-methyl derivative	dibenzylbenzene, ar-methyl derivative	Ja								05-11-2019	
+77-73-6	201-052-9	dicyclopentadieen	dicyclopentadiene				Ja					01-05-2020	
+67-43-6	200-652-8	Di-ethyleentriaminepenta-azijnzuur	N-carboxymethyliminobis(ethylenenitrilo)tetra(acetic acid)	Ja								19-01-2018	
+60-29-7	200-467-2	diethylether	diethyl ether				Ja		gO.2	500 g/uur	50 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+68479-98-1	270-877-4	diethylmethylbenzenediamine	diethylmethylbenzenediamine		Ja		Ja					19-01-2018	
+102-06-7	203-002-1	difenylguanidine	1,3-diphenylguanidine				Ja					19-01-2018	
+28472-97-1	249-044-4	Diisodecyl azelate	Diisodecyl azelate			Ja	Ja					19-01-2018	
+25321-09-9	246-835-6	diisopropylbenze(e)n(en)	diisopropylbenzene				Ja		gO.2	500 g/uur	50 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+123-91-1	204-661-8	dioxaan	1,4-dioxane	Ja				Ja	gO.1	100 g/uur	20 mg/Nm3	11-09-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+27344-41-8	248-421-0	disodium 2,2'-([1,1'-biphenyl]-4,4'-diyldivinylene)bis(benzenesulphonate)	disodium 2,2'-([1,1'-biphenyl]-4,4'-diyldivinylene)bis(benzenesulphonate)			Ja						19-01-2018	
+6731-36-8	229-782-3	Di-tert-butyl 3,3,5-trimethylcyclohexylidene diperoxide	Di-tert-butyl 3,3,5-trimethylcyclohexylidene diperoxide			Ja	Ja					19-01-2018	
+110-05-4	203-733-6	Di-tert-butyl peroxide	Di-tert-butyl peroxide				Ja					19-01-2018	
+10508-09-5	234-042-8	di-tert-pentyl peroxide	di-tert-pentyl peroxide				Ja					19-01-2018	
+28299-41-4	248-948-6	Ditolyl ether	Ditolyl ether			Ja	Ja					19-01-2018	
+85507-79-5	287-401-6	diundecyl phthalate, branched and linear	diundecyl phthalate, branched and linear				Ja					19-01-2018	
+141-63-9	205-492-2	dodecamethylpentasiloxane	dodecamethylpentasiloxane			Ja	Ja					19-01-2018	
+27193-86-8	248-312-8	dodecylfenol	dodecylphenol	Ja								05-11-2019	
+	405-420-1	EDDHMAFEK	EDDHMAFEK				Ja					11-09-2018	
+107-21-1	203-473-3	ethaan-1,2-diol	ethane-1,2-diol	Ja					gO.2	500 g/uur	50 mg/Nm3	05-11-2019	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+107-21-1	203-473-3	ethaan-1,2-diol - damp	ethane-1,2-diol - vaporized	Ja					gO.2	500 g/uur	50mg/Nm3	05-11-2019	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+115895-09-5	404-740-9	Ethyl 3,5-dichloro-4-hexadecyloxycarbonyloxybenzoate	Ethyl 3,5-dichloro-4-hexadecyloxycarbonyloxybenzoate				Ja					19-01-2018	
+120-47-8	204-399-4	Ethyl 4-hydroxybenzoate	Ethyl 4-hydroxybenzoate				Ja					19-01-2018	
+628-96-6	211-063-0	ethylene dinitrate	ethylene dinitrate		Ja		Ja					19-01-2018	
+68334-05-4	500-204-4	fatty acids, c18-unsatd., dimers, 2-ethylhexyl esters, diethylhexyl dimerate	fatty acids, c18-unsatd., dimers, 2-ethylhexyl esters, diethylhexyl dimerate			Ja						19-01-2018	
+68919-76-6	272-902-4	Fatty acids, tall-oil, reaction products with 2-[(2-aminoethyl)amino]ethanol	Fatty acids, tall-oil, reaction products with 2-[(2-aminoethyl)amino]ethanol				Ja					19-01-2018	
+100-51-6	202-859-9	fenylmethanol	benzyl alcohol				Ja		gO.2	500 g/uur	50 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+9003-36-5	500-006-8	Formaldehyde, oligomeric reaction products with 1-chloro-2,3-epoxypropane and phenol	Formaldehyde, oligomeric reaction products with 1-chloro-2,3-epoxypropane and phenol				Ja					19-01-2018	
+98-01-1	202-627-7	furfural	2-furaldehyde				Ja		gO.1	100 g/uur	20 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+111-30-8	203-856-5	glutaaraldehyde	glutaraldehyde	Ja								19-01-2018	
+		grafiet en meerwandige koolstof nanobuizen, synthetisch grafiet in buisvorm	synthetic graphite in tubular shape, Multi-Wall Carbon Nanotubes (MWCNT)				Ja					19-01-2018	
+168689-49-4	418-550-9	hexadecyl 4-chloro-3-[2-(5,5-dimethyl-2,4-dioxo-1,3-oxazolidin-3-yl)-4,4-dimethyl-3-oxopentamido]benzoate	hexadecyl 4-chloro-3-[2-(5,5-dimethyl-2,4-dioxo-1,3-oxazolidin-3-yl)-4,4-dimethyl-3-oxopentamido]benzoate			Ja						01-05-2020	
+116-15-4	204-127-4	hexafluorpropeen	hexafluoropropene				Ja		gO.1	100 g/uur	20 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+121-82-4	204-500-1	hexahydro-1,3,5-trinitro-1,2,3-triazine	perhydro-1,3,5-trinitro-1,3,5-triazine				Ja					05-11-2019	
+107-46-0	203-492-7	hexamethyldisiloxaan	hexamethyldisiloxane			Ja	Ja		gO.2	500 g/uur	50 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+822-06-0	212-485-8	hexamethyleendiisocyanaat	hexamethylene diisocyanate	Ja				Ja	gO.1	100 g/uur	20 mg/Nm3	01-05-2020	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.
+118-56-9	204-260-8	homosalaat	homosalate		Ja							19-01-2018	
+	701-057-0	Hydrogenated rosin alcohols	Hydrogenated rosin alcohols				Ja					11-09-2018	
+	931-745-8	Imidazolium compounds, 2-C17-unsatd.-alkyl-1-(2-C18-unsatd. amidoethyl)-4,5-dihydro-N-methyl, Me sulfates	Imidazolium compounds, 2-C17-unsatd.-alkyl-1-(2-C18-unsatd. amidoethyl)-4,5-dihydro-N-methyl, Me sulfates			Ja	Ja					19-01-2018	
+118832-72-7	404-800-4	Iso(C10-C14)alkyl (3,5-di-tert-butyl-4-hydroxyphenyl)methylthioacetate	Iso(C10-C14)alkyl (3,5-di-tert-butyl-4-hydroxyphenyl)methylthioacetate			Ja	Ja					19-01-2018	
+78-59-1	201-126-0	isoforon	isophorone		Ja		Ja		gO.2	500 g/uur	50 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+71617-10-2	275-702-5	Isopentyl p-methoxycinnamate	Isopentyl p-methoxycinnamate		Ja		Ja					19-01-2018	
+68937-41-7	273-066-3	isopropylfenyl fosfaat (3:1)	phenol, isopropylated, phosphate (3:1)				Ja					01-05-2020	
+	444-340-1	kalium 2-(3-trifluormethoxy-1,1,2,2,3,3-hexafluorpropoxy)-2,3,3,3-tetrafluorpropionaat	Potassium 2-(3-trifluoromethoxy-1,1,2,2,3,3-hexafluoropropoxy)-2,3,3,3-tetrafluoropropionate			Ja	Ja					19-01-2018	
+75-15-0	200-843-6	koolstofdisulfide	carbon disulphide				Ja		gO.2	500 g/uur	50 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+		legeringen van kobalt-wolfraamcarbide hardmetaal	Alloys Cobalt-tungsten carbide hard metals	Ja								19-01-2018	
+67774-74-7	267-051-0	lineaire C10-C13 alkylbenzenen	benzene, C10-13 alkyl derivatives			Ja						19-01-2018	
+		lithium carbonaat; lithium chloride; lithium hydroxide	lithium carbonate; lithium chloride; lithium hydroxide					Ja				12-05-2020	
+101-90-6	202-987-5	m-bis(2,3-epoxypropoxy)benzene	m-bis(2,3-epoxypropoxy)benzene					Ja				11-09-2018	
+99-62-7	202-773-1	m-diisopropylbenzeen	1,3-diisopropylbenzene				Ja		gO.2	500 g/uur	50 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+426218-78-2	422-040-1	mengsel van: 4-(2,2,3-trimethylcyclopent-3-een-1-yl)-1-methyl-2-oxabicyclo[2.2.2]octaan; 1-(2,2,3-trimethylcyclopent-3-een-1-yl)-5-methyl-6-oxabicyclo[3.2.1]octaan; spiro[cyclohex-3-een-1-yl-[(4,5,6,6a-tetrahydro-3,6',6',6'a-tetramethyl)-1,3'(3'aH)-[2H]cyclopenta[b]furaan]; spiro[cyclohex-3-een-1-yl-[4,5,6,6a-tetrahydro-4,6',6',6'a-tetramethyl)-1,3'(3'aH)-[2H]cyclopenta[b]]furaan] 	a mixture of: 4-(2,2,3-trimethylcyclopent-3-en-1-yl)-1-methyl-2-oxabicyclo[2.2.2]octane; 1-(2,2,3-trimethylcyclopent-3-en-1-yl)-5-methyl-6-oxabicyclo[3.2.1]octane; spiro[cyclohex-3-en-1-yl-[(4,5,6,6a-tetrahydro-3,6',6',6'a-tetramethyl)-1,3'(3'aH)-[2H]cyclopenta[b]]furan] 				Ja					19-01-2018	
+	400-830-7	mengsel van: α-3-(3-(2H-benzotriazool-2-yl)-5-tert-butyl-4-hydroxyfenyl)propionyl-ω-hydroxypoly(oxyethyleen); α-3-(3-(2H-benzotriazool-2-yl)-5-tert-butyl-4-hydroxyfenyl)propionyl-ω-3-(3-(2H-benzotriazool-2-yl)-5-tert-butyl-4-hydroxyfenyl)propionyloxypoly(oxyethyleen)	A mixture of: α-3-(3-(2H-benzotriazol-2-yl)-5-tert-butyl-4-hydroxyphenyl)propionyl-ω-hydroxypoly(oxyethylene); α-3-(3-(2H-benzotriazol-2-yl)-5-tert-butyl-4-hydroxyphenyl)propionyl-ω-3-(3-(2H-benzotriazol-2-yl)-5-tert-butyl-4-hydroxyphenyl)propionyloxypoly(oxyethylene)			Ja						11-09-2018	
+27813-02-1	248-666-3	Methacrylic acid, monoester with propane-1,2-diol	Methacrylic acid, monoester with propane-1,2-diol				Ja					19-01-2018	
+99-76-3	202-785-7	methyl 4-hydroxybenzoate	methyl 4-hydroxybenzoate		Ja		Ja					19-01-2018	
+119-36-8	204-317-7	methyl salicylate	methyl salicylate		Ja		Ja					01-05-2020	
+24748-23-0	429-320-2	methylethylketon peroxide trimeer	methylethylketone peroxide trimer				Ja					05-11-2019	
+1634-04-4	216-653-1	methyl-tert-butylether	tert-butyl methyl ether		Ja		Ja		gO.2	500 g/uur	50 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+	448-020-2	mixture of two components: 1. N-(1,3- dimethylbutyl)-N´- phenyl-p-phenylenediamine 2. N1-(1,3-dimethylbutyl)- N4-(4-(1-methyl-1- phenylethyl)phenyl)benzene-1,4-diamine	mixture of two components: 1. N-(1,3- dimethylbutyl)-N´- phenyl-p-phenylenediamine 2. N1-(1,3-dimethylbutyl)- N4-(4-(1-methyl-1- phenylethyl)phenyl)benzene-1,4-diamine			Ja	Ja					19-01-2018	
+1313-27-5	215-204-7	molybdenum trioxide	molybdenum trioxide	Ja								19-01-2018	
+	700-427-9	Mono- and/or di- and/or tri(1-phenylethyl)-m-cresol and p-cresol	Mono- and/or di- and/or tri(1-phenylethyl)-m-cresol and p-cresol			Ja	Ja					19-01-2018	
+		Multi-Walled Carbon Nanotubes (fibres fulfilling the WHO definition: diameter < 3 µm, fibre length > 5 μm and aspect ratio ≥ 3:1, with a diameter > xx nm)						Ja				05-11-2019	
+	936-414-1	Multi-Walled Carbon Nanotubes (MWCNT), synthetic graphite in tubular shape	Multi-Walled Carbon Nanotubes (MWCNT), synthetic graphite in tubular shape				Ja					05-11-2019	
+108-38-3	203-576-3	m-xyleen	m-xylene				Ja					19-01-2018	
+3081-01-4	221-374-3	N-(1,4-dimethylpentyl)-N'-phenylbenzene-1,4-diamine	N-(1,4-dimethylpentyl)-N'-phenylbenzene-1,4-diamine			Ja	Ja					19-01-2018	
+56358-17-9	260-126-9	N-(2-ethylhexyl)naphthalen-2-amine	N-(2-ethylhexyl)naphthalen-2-amine			Ja						19-01-2018	
+4979-32-2	225-625-8	N,N-dicyclohexylbenzothiazole-2-sulphenamide	N,N-dicyclohexylbenzothiazole-2-sulphenamide	Ja			Ja					19-01-2018	
+3710-84-7	223-055-4	N,N-diethylhydroxylamine	N,N-diethylhydroxylamine				Ja					11-09-2018	
+32588-76-4	251-118-6	N,N'-ethylenebis(3,4,5,6-tetrabromophthalimide)	N,N'-ethylenebis(3,4,5,6-tetrabromophthalimide)			Ja	Ja					05-11-2019	
+1228186-18-2	629-767-5	N-[2-(piperazin-1-yl)ethyl]C18-insaturated-alkylamide	N-[2-(piperazin-1-yl)ethyl]C18-insaturated-alkylamide				Ja					19-01-2018	
+67905-17-3	267-636-0	N-[4-[(9,10-dihydro-4-hydroxy-9,10-dioxo-1-anthryl)amino]phenyl]acetamide	N-[4-[(9,10-dihydro-4-hydroxy-9,10-dioxo-1-anthryl)amino]phenyl]acetamide				Ja					05-11-2019	
+90-30-2	201-983-0	N-1-naphthylaniline	N-1-naphthylaniline			Ja	Ja					19-01-2018	
+149-44-0	205-739-4	natrium hydroxymethaansulfinaat	sodium hydroxymethanesulphinate				Ja					19-01-2018	
+7775-14-6	231-890-0	natriumdithioniet	sodium dithionite				Ja					19-01-2018	
+7601-89-0	231-511-9	natriumperchloraat	sodium perchlorate				Ja					19-01-2018	
+79-24-3	201-188-9	nitroethaan	nitroethane					Ja	gO.3	500 g/uur	100 mg/Nm3	15-04-2019	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+75-52-5	200-876-6	nitromethaan	nitromethane					Ja	gO.3	500 g/uur	100 mg/Nm3	15-04-2019	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+100-61-8	202-870-9	N-methylaniline	N-methylaniline				Ja					05-11-2019	
+109-60-4	203-686-1	n-propylacetaat	n-propyl acetate				Ja		gO.2	500 g/uur	50 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+597-82-0	209-909-9	O,O,O-triphenyl phosphorothioate	O,O,O-triphenyl phosphorothioate			Ja	Ja					19-01-2018	
+107-51-7	203-497-4	Octamethyltrisiloxane	Octamethyltrisiloxane			Ja	Ja					19-01-2018	
+68938-03-4	273-110-1	Octene, hydroformylation products, low-boiling	Octene, hydroformylation products, low-boiling				Ja					19-01-2018	
+6197-30-4	228-250-8	Octocrilene	Octocrilene			Ja	Ja					19-01-2018	
+	700-960-7	Oligomerisation and alkylation reaction products of 2-phenylpropene and phenol	Oligomerisation and alkylation reaction products of 2-phenylpropene and phenol		Ja	Ja	Ja					19-01-2018	
+68609-97-2	271-846-8	Oxirane, mono[(C12-14-alkyloxy)methyl] derivs.	Oxirane, mono[(C12-14-alkyloxy)methyl] derivs.				Ja					19-01-2018	
+131-57-7	205-031-5	oxybenzone	oxybenzone	Ja	Ja		Ja					19-01-2018	
+120-55-8	204-407-6	Oxydiethylene dibenzoate	Oxydiethylene dibenzoate				Ja					19-01-2018	
+27138-31-4	248-258-5	oxydipropyl dibenzoate	oxydipropyl dibenzoate				Ja					19-01-2018	
+95-47-6	202-422-2	o-xyleen	o-xylene				Ja					19-01-2018	
+5026-74-4	225-716-2	p-(2,3-epoxypropoxy)-N,N-bis(2,3-epoxypropyl)aniline	p-(2,3-epoxypropoxy)-N,N-bis(2,3-epoxypropyl)aniline				Ja					19-01-2018	
+100-18-5	202-826-9	p-diisopropylbenzeen	1,4-diisopropylbenzene				Ja		gO.2	500 g/uur	50 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+12007-92-0	234-522-7	Pentaboron sodium octaoxide	Pentaboron sodium octaoxide					Ja				19-01-2018	
+7601-90-3	231-512-4	perchloorzuur	perchloric acid	Ja								19-01-2018	
+338-83-0	206-420-2	Perfluamine	Perfluamine				Ja					19-01-2018	
+375-85-9	206-798-9	perfluorheptaanzuur	Perfluoroheptanoic acid					Ja				05-11-2019	
+81-33-4	201-344-6	perylene-3,4:9,10-tetracarboxydiimide	Perylene-3,4:9,10-tetracarboxydiimide				Ja					05-11-2019	
+68610-51-5	271-867-2	Phenol, 4-methyl-, reaction products with dicyclopentadiene and isobutylene	Phenol, 4-methyl-, reaction products with dicyclopentadiene and isobutylene			Ja	Ja					19-01-2018	
+		phenol, alkylation products (mainly in para position) with C12-rich branched or linear alkylchains from propene oligomerisation, covering any individual isomers and/ or combinations thereof	phenol, alkylation products (mainly in para position) with C12-rich branched or linear alkylchains from propene oligomerisation, covering any individual isomers and/ or combinations thereof	Ja								05-11-2019	
+61788-44-1	262-975-0	Phenol, styrenated	Phenol, styrenated		Ja	Ja	Ja					19-01-2018	
+84605-29-8	283-392-8	Phosphorodithioic acid, mixed O,O-bis(1,3-dimethylbutyl and iso-Pr) esters, zinc salts	Phosphorodithioic acid, mixed O,O-bis(1,3-dimethylbutyl and iso-Pr) esters, zinc salts			Ja						19-01-2018	
+37486-69-4		polyfluor-5,8,11,14-tetrakis(polyfluoralkyl)polyoxaalkaan	polyfluoro-5,8,11,14-tetrakis(polyfluoralkyl)-polyoxaalkane				Ja					19-01-2018	
+754-12-1	422-570-3, 468-710-7	polyhaloalkeen	Polyhaloalkene				Ja					15-04-2019	
+	938-828-8	potassium 2-({2-[(carboxymethyl)[(2-hydroxyphenyl)methyl]amino]ethyl}[(2-hydroxyphenyl)methyl]amino)acetic acid iron potassium chloride	potassium 2-({2-[(carboxymethyl)[(2-hydroxyphenyl)methyl]amino]ethyl}[(2-hydroxyphenyl)methyl]amino)acetic acid iron potassium chloride				Ja					11-09-2018	
+12056-51-8	432-240-0	Potassium titanium oxide (K2Ti6O13)	Potassium titanium oxide (K2Ti6O13)				Ja					19-01-2018	
+2312-35-8	219-006-1	Propargite	Propargite		Ja		Ja					19-01-2018	
+94-13-3	202-307-7	propyl 4-hydroxybenzoate	propyl 4-hydroxybenzoate		Ja		Ja					19-01-2018	
+	700-103-7	reaction mass of (2S,5R)-2-tert-butyl-5-methyl-2-propyl-2,5-dihydrofuran and (2S,5S)-2-tert-butyl-5-methyl-2-propyl-2,5-dihydrofuran	reaction mass of (2S,5R)-2-tert-butyl-5-methyl-2-propyl-2,5-dihydrofuran and (2S,5S)-2-tert-butyl-5-methyl-2-propyl-2,5-dihydrofuran			Ja						19-01-2018	
+	915-730-3	reaction mass of 1-(1,2,3,4,5,6,7,8-octahydro-2,3,8,8-tetramethyl-2-naphthyl)ethan-1-one and 1-(1,2,3,4,6,7,8,8a-octahydro-2,3,8,8-tetramethyl-2-naphthyl)ethan-1-one and 1-(1,2,3,5,6,7,8,8a-octahydro-2,3,8,8-tetramethyl-2-naphthyl)ethan-1-one	reaction mass of 1-(1,2,3,4,5,6,7,8-octahydro-2,3,8,8-tetramethyl-2-naphthyl)ethan-1-one and 1-(1,2,3,4,6,7,8,8a-octahydro-2,3,8,8-tetramethyl-2-naphthyl)ethan-1-one and 1-(1,2,3,5,6,7,8,8a-octahydro-2,3,8,8-tetramethyl-2-naphthyl)ethan-1-one			Ja	Ja					19-01-2018	
+	422-270-2	reaction mass of 1,1,2,3,3,3-hexafluoro-1-methoxy-2-(trifluoromethyl)propane and 1,1,2,2,3,3,4,4,4-nonafluoro-1-methoxybutane	reaction mass of 1,1,2,3,3,3-hexafluoro-1-methoxy-2-(trifluoromethyl)propane and 1,1,2,2,3,3,4,4,4-nonafluoro-1-methoxybutane			Ja	Ja					05-11-2019	
+	911-694-8	reaction mass of 1,3-dioxan-5-ol and 1,3-dioxolan-4-ylmethanol	reaction mass of 1,3-dioxan-5-ol and 1,3-dioxolan-4-ylmethanol					Ja				01-05-2020	
+	473-390-7	reaction mass of 2,2,3,3,5,5,6,6-octafluoro-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)morpholine and 2,2,3,3,5,5,6,6-octafluoro-4-(heptafluoropropyl)morpholine	reaction mass of 2,2,3,3,5,5,6,6-octafluoro-4-(1,1,1,2,3,3,3-heptafluoropropan-2-yl)morpholine and 2,2,3,3,5,5,6,6-octafluoro-4-(heptafluoropropyl)morpholine			Ja	Ja					19-01-2018	
+	701-263-0	reaction mass of 2,2'-[methylenebis(2,1-phenyleneoxymethylene)]bis(oxirane) and 2,2'-[methylenebis(4,1-phenyleneoxymethylene)]bis(oxirane) and 2-({2-[4-(oxiran-2-ylmethoxy)benzyl]phenoxy}methyl)oxirane	reaction mass of 2,2'-[methylenebis(2,1-phenyleneoxymethylene)]bis(oxirane) and 2,2'-[methylenebis(4,1-phenyleneoxymethylene)]bis(oxirane) and 2-({2-[4-(oxiran-2-ylmethoxy)benzyl]phenoxy}methyl)oxirane				Ja					01-05-2020	
+	915-333-5	Reaction mass of 2,4,6-tris(1-phenyl-ethyl)phenol and Bis(1-phenylethyl) phenol	Reaction mass of 2,4,6-tris(1-phenyl-ethyl)phenol and Bis(1-phenylethyl) phenol			Ja						19-01-2018	
+	907-745-9	Reaction mass of 2,6-di-tert-butylphenol and 2,4,6-tri-tert-butylphenol	Reaction mass of 2,6-di-tert-butylphenol and 2,4,6-tri-tert-butylphenol			Ja	Ja					19-01-2018	
+	701-241-0	Reaction mass of 2-methylpentane and Hexanol, branched and linear and diisopropyl ether	Reaction mass of 2-methylpentane and Hexanol, branched and linear and diisopropyl ether				Ja					05-11-2019	
+	906-390-7	reaction mass of 2-methylpentane and hexanol, branched and linear and diisopropyl ether	reaction mass of 2-methylpentane and hexanol, branched and linear and diisopropyl ether				Ja					05-11-2019	
+	452-830-1	Reaction mass of disodium 2-(hexadecylthio)-1-(4-sulfonatobutyl)-1H-benzimidazole-5-sulfonate and disodium 2-(hexadecylthio)-1-(4-sulfonatobutyl)-1H-benzimidazole-6-sulfonate	Reaction mass of disodium 2-(hexadecylthio)-1-(4-sulfonatobutyl)-1H-benzimidazole-5-sulfonate and disodium 2-(hexadecylthio)-1-(4-sulfonatobutyl)-1H-benzimidazole-6-sulfonate	Ja								19-01-2018	
+	905-562-9	reaction mass of ethylbenzene and m-xylene and p-xylene	reaction mass of ethylbenzene and m-xylene and p-xylene				Ja					19-01-2018	
+	905-588-0	reaction mass of ethylbenzene and xylene	reaction mass of ethylbenzene and xylene				Ja					19-01-2018	
+	700-161-3	reaction mass of mixed (3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)  phosphates,  ammonium salt	reaction mass of mixed (3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluorooctyl)  phosphates,  ammonium salt			Ja	Ja					19-01-2018	
+	911-815-4	Reaction mass of tris(2-chloropropyl) phosphate and tris(2-chloro-1-methylethyl) phosphate and Phosphoric acid, bis(2-chloro-1-methylethyl) 2-chloropropyl ester and Phosphoric acid, 2-chloro-1-methylethyl bis(2-chloropropyl) ester	Reaction mass of tris(2-chloropropyl) phosphate and tris(2-chloro-1-methylethyl) phosphate and Phosphoric acid, bis(2-chloro-1-methylethyl) 2-chloropropyl ester and Phosphoric acid, 2-chloro-1-methylethyl bis(2-chloropropyl) ester	Ja			Ja					19-01-2018	
+25068-38-6	500-033-5	Reaction product: bisphenol-A-(epichlorhydrin),epoxy resin (number average molecular weight ≤ 700)	Reaction product: bisphenol-A-(epichlorhydrin),epoxy resin (number average molecular weight ≤ 700)		Ja		Ja					19-01-2018	
+144020-22-4	482-330-9	Reaction products of acetic anhydride and 1,5,10-trimethyl- 1,5,9-cyclodecatriene	Reaction products of acetic anhydride and 1,5,10-trimethyl- 1,5,9-cyclodecatriene			Ja						19-01-2018	
+1244733-77-4	807-935-0	reaction products of phosphoryl trichloride and 2-methyloxirane	reaction products of phosphoryl trichloride and 2-methyloxirane				Ja					01-05-2020	
+65997-13-9	266-042-9	Resin acids and Rosin acids, hydrogenated, esters with glycerol	Resin acids and Rosin acids, hydrogenated, esters with glycerol			Ja	Ja					19-01-2018	
+64365-17-9	264-848-5	Resin acids and Rosin acids, hydrogenated, esters with pentaerythritol	Resin acids and Rosin acids, hydrogenated, esters with pentaerythritol			Ja	Ja					19-01-2018	
+108-46-3	203-585-2	resorcinol	resorcinol		Ja		Ja		gO.2	500 g/uur	50 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+255881-94-8	401-850-9	S-(tricyclo(5.2.1.0'2,6)deca-3-en-8(or 9)-yl O-(isopropyl or isobutyl or 2-ethylhexyl) O-(isopropyl or isobutyl or 2-ethylhexyl) phosphorodithioate	S-(tricyclo(5.2.1.0'2,6)deca-3-en-8(or 9)-yl O-(isopropyl or isobutyl or 2-ethylhexyl) O-(isopropyl or isobutyl or 2-ethylhexyl) phosphorodithioate			Ja	Ja					19-01-2018	
+	700-579-6	Sepisol Fast Blue 85219	Sepisol Fast Blue 85219			Ja	Ja					19-01-2018	
+	447-780-2	Shale Oil Bitumen	Shale Oil Bitumen			Ja						19-01-2018	
+155925-27-2	422-570-3	silver sodium zirconium hydrogenphosphate	silver sodium zirconium hydrogenphosphate		Ja							15-04-2019	
+127-68-4	204-857-3	Sodium 3-nitrobenzene sulphonate	Sodium 3-nitrobenzene sulphonate				Ja					19-01-2018	
+	466-490-7	sodium/potassium-7-[(E)-{2-acetamido-4-[(E)-(4-{[4-chlor-6-({2-[(4-fluor-6- {[substitutedphenyl]amino}- heteromonocyclyl)amino]propyl}amino)- heteromonocyclyl]amino}-1-naphthyl)diazenyl]-5-methoxyphenyl}diazenyl]- naphthalinpolysulfonate	sodium/potassium-7-[(E)-{2-acetamido-4-[(E)-(4-{[4-chlor-6-({2-[(4-fluor-6- {[substitutedphenyl]amino}- heteromonocyclyl)amino]propyl}amino)- heteromonocyclyl]amino}-1-naphthyl)diazenyl]-5-methoxyphenyl}diazenyl]- naphthalinpolysulfonate	Ja								01-05-2020	
+100-42-5	202-851-5	styreen	styrene	Ja					gO.2	500 g/uur	50 mg/Nm3	01-05-2020	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+	701-160-0	Tangled Multi-Walled Carbon Nanotubes	Tangled Multi-Walled Carbon Nanotubes				Ja					05-11-2019	
+614-45-9	210-382-2	tert-butyl perbenzoate	tert-butyl perbenzoate				Ja					19-01-2018	
+25013-16-5	246-563-8	tert-butyl-4-methoxyfenol	tert-butyl-4-methoxyphenol	Ja	Ja		Ja					01-05-2020	
+57583-54-7	260-830-6	tetraphenyl m-phenylene bis(phosphate)	tetraphenyl m-phenylene bis(phosphate)		Ja		Ja					19-01-2018	
+58-55-9	200-385-7	theophylline	theophylline					Ja				11-09-2018	
+62-56-6	200-543-5	thioureum	thiourea					Ja				05-11-2019	
+7488-55-3	231-302-2	Tin sulphate	Tin sulphate				Ja					19-01-2018	
+21145-77-7	244-240-6	tonalide	tonalide		Ja		Ja					19-01-2018	
+101-20-2	202-924-1	triclocarban	triclocarban				Ja					19-01-2018	
+3380-34-5	222-182-2	Triclosan	Triclosan		Ja	Ja	Ja					19-01-2018	
+115-86-6	204-112-2	trifenylfosfaat	triphenyl phosphate		Ja		Ja		gO.1	100 g/uur	20 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+1185-55-3	214-685-0	Trimethoxy(methyl)silane	Trimethoxy(methyl)silane				Ja					19-01-2018	
+13674-84-5	237-158-7	tris(2-chloro-1-methylethyl) phosphate	tris(2-chloro-1-methylethyl) phosphate	Ja								19-01-2018	
+3319-31-1	222-020-0	tris(2-ethylhexyl)-benzene-1,2,4-tricarboxylate	tris(2-ethylhexyl)-benzene-1,2,4-tricarboxylate		Ja	Ja	Ja					19-01-2018	
+13674-87-8	237-159-2	Tris[2-chloro-1-(chloromethyl)ethyl] phosphate	Tris[2-chloro-1-(chloromethyl)ethyl] phosphate	Ja			Ja					19-01-2018	
+70210-13-8	274-410-5	trisodium 2-[[4-[[4-[(4-amino-6-chloro-1,3,5-triazin-2-yl)amino]-5-sulphonatonaphthyl]azo]-2,5-dimethylphenyl]azo]benzene-1,4-disulphonate	trisodium 2-[[4-[[4-[(4-amino-6-chloro-1,3,5-triazin-2-yl)amino]-5-sulphonatonaphthyl]azo]-2,5-dimethylphenyl]azo]benzene-1,4-disulphonate	Ja								01-05-2020	
+1314-62-1	215-239-8	vanadiumpentoxide	divanadium pentaoxide					Ja	sA.1	0,25 g/uur	0,05 mg/Nm3	11-09-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+105-38-4	203-293-5	vinyl propionaat	vinyl propionate	Ja								01-05-2020	
+108-05-4	203-545-4	vinylacetaat	vinyl acetate	Ja			Ja		gO.2	500 g/uur	50 mg/Nm3	19-01-2018	De weergegeven stofklasse staat in bijlage 12 van de Activiteitenregeling. Omdat deze stof op de lijst met potentiële ZZS staat kan het bevoegd gezag overwegen om in het kader van vergunningverlening voor luchtemissies de strengere stofklassen MVP1 of MVP2 te hanteren. Bij overschrijding van de Emissiegrenswaarde voor deze stofklassen kunt u de emissie toetsen aan het (af te leiden) MTR.	
+2768-02-7	220-449-8	vinyltrimethoxisilaan	trimethoxyvinylsilane				Ja					19-01-2018	
+	442-200-4	W-663	W-663			Ja						19-01-2018	
+4259-15-8	224-235-5	zink bis[O,O-bis(2-ethylhexyl)] bis(dithiofosfaat)	zinc bis[O,O-bis(2-ethylhexyl)] bis(dithiophosphate)			Ja						19-01-2018	
+137-30-4	205-288-3	ziram	ziram	Ja	Ja		Ja					19-01-2018	

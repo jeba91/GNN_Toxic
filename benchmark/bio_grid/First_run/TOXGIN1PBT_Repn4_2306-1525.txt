@@ -1,0 +1,61 @@
+Sender: LSF System <lsfadmin@rivm-lsfsv-l15p.rivm.ssc-campus.nl>
+Subject: Job 473434: <python main_TUs_graph_classification.py --dataset PBT_Repn4 --config ./configs/test/TOXGIN1.json> in cluster <RIVM-LSF-PRD> Exited
+
+Job <python main_TUs_graph_classification.py --dataset PBT_Repn4 --config ./configs/test/TOXGIN1.json> was submitted from host <rivm-biohn-l03p.int.ssc-campus.nl> by user <baarsj> in cluster <RIVM-LSF-PRD> at Tue Jun 23 15:25:48 2020
+Job was executed on host(s) <rivm-lsfsv-l15p.rivm.ssc-campus.nl>, in queue <bio-tst>, as user <baarsj> in cluster <RIVM-LSF-PRD> at Tue Jun 23 15:25:49 2020
+</home/baarsj> was used as the home directory.
+</home/baarsj/Documents/GNN_rivm/benchmark> was used as the working directory.
+Started at Tue Jun 23 15:25:49 2020
+Terminated at Tue Jun 23 15:29:19 2020
+Results reported at Tue Jun 23 15:29:19 2020
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python main_TUs_graph_classification.py --dataset PBT_Repn4 --config ./configs/test/TOXGIN1.json
+------------------------------------------------------------
+
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time :                                   28.11 sec.
+    Max Memory :                                 202 MB
+    Average Memory :                             79.65 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   -
+    Max Processes :                              3
+    Max Threads :                                4
+    Run time :                                   209 sec.
+    Turnaround time :                            211 sec.
+
+The output (if any) follows:
+
+  0%|          | 0/1000 [00:00<?, ?it/s]Epoch 0:   0%|          | 0/1000 [00:00<?, ?it/s]Epoch 0:   0%|          | 0/1000 [00:03<?, ?it/s, lr=0.001, test_acc=0.889, time=3.97, train_acc=0.707, train_loss=4.37, val_acc=0.923, val_loss=1.41]Epoch 0:   0%|          | 0/1000 [00:04<?, ?it/s, lr=0.001, test_acc=0.889, time=3.97, train_acc=0.707, train_loss=4.37, val_acc=0.923, val_loss=1.41]
+cuda not available
+1311
+preparing 1311 graphs for the ALL set...
+[!] Dataset:  PBT_Repn4
+Time taken: 9.5696s
+MODEL DETAILS:
+
+MODEL/Total parameters: GIN 162350
+1311
+preparing 1311 graphs for the ALL set...
+[!] Dataset:  PBT_Repn4
+Time taken: 7.4335s
+RUN NUMBER:  0
+Training Graphs:  1094
+Validation Graphs:  179
+Test Graphs:  132
+Number of Classes:  2
+Traceback (most recent call last):
+  File "main_TUs_graph_classification.py", line 468, in <module>
+    main()
+  File "main_TUs_graph_classification.py", line 458, in main
+    train_val_pipeline(MODEL_NAME, DATASET_NAME, params, net_params, dirs)
+  File "main_TUs_graph_classification.py", line 210, in train_val_pipeline
+    os.remove(file)
+FileNotFoundError: [Errno 2] No such file or directory: 'out/TOX_graph_classification/checkpoints/GIN_PBT_Repn4_GPU0_15h29m06s_on_Jun_23_2020/RUN_0/best/0_0.9259259259259259.pkl'

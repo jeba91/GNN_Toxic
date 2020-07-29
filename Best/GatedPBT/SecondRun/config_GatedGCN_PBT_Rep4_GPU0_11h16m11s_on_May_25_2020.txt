@@ -1,0 +1,10 @@
+Dataset: PBT_Rep4,
+Model: GatedGCN
+
+params={'seed': 79, 'epochs': 1000, 'batch_size': 5, 'init_lr': 0.0001, 'lr_reduce_factor': 0.5, 'lr_schedule_patience': 25, 'min_lr': 1e-10, 'weight_decay': 0.0, 'print_epoch_interval': 5, 'max_time': 48}
+
+net_params={'L': 4, 'hidden_dim': 128, 'out_dim': 128, 'residual': True, 'readout': 'mean', 'in_feat_dropout': 0.5, 'dropout': 0.5, 'graph_norm': True, 'batch_norm': True, 'edge_feat': True, 'device': device(type='cpu'), 'gpu_id': 0, 'batch_size': 5, 'in_dim': 88, 'n_classes': 2, 'total_param': 365474}
+
+
+Total Parameters: 365474
+

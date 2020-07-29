@@ -1,0 +1,110 @@
+Dataset: PBT_Repn2,
+Model: GIN
+
+params={'seed': 79, 'epochs': 1000, 'batch_size': 20, 'init_lr': 0.001, 'lr_reduce_factor': 0.5, 'lr_schedule_patience': 25, 'min_lr': 1e-10, 'weight_decay': 0.0, 'print_epoch_interval': 5, 'max_time': 48}
+
+net_params={'L': 8, 'hidden_dim': 192, 'residual': True, 'readout': 'sum', 'n_mlp_GIN': 1, 'learn_eps_GIN': True, 'neighbor_aggr_GIN': 'sum', 'in_feat_dropout': 0.5, 'dropout': 0.5, 'graph_norm': True, 'batch_norm': True, 'device': device(type='cpu'), 'gpu_id': 0, 'batch_size': 20, 'in_dim': 23, 'n_classes': 2, 'total_param': 310682}
+
+GINNet(
+  (ginlayers): ModuleList(
+    (0): GINLayer(
+      (apply_func): ApplyNodeFunc(
+        (mlp): MLP(
+          (linear): Linear(in_features=192, out_features=192, bias=True)
+        )
+        (bn): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (bn_node_h): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (1): GINLayer(
+      (apply_func): ApplyNodeFunc(
+        (mlp): MLP(
+          (linear): Linear(in_features=192, out_features=192, bias=True)
+        )
+        (bn): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (bn_node_h): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (2): GINLayer(
+      (apply_func): ApplyNodeFunc(
+        (mlp): MLP(
+          (linear): Linear(in_features=192, out_features=192, bias=True)
+        )
+        (bn): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (bn_node_h): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (3): GINLayer(
+      (apply_func): ApplyNodeFunc(
+        (mlp): MLP(
+          (linear): Linear(in_features=192, out_features=192, bias=True)
+        )
+        (bn): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (bn_node_h): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (4): GINLayer(
+      (apply_func): ApplyNodeFunc(
+        (mlp): MLP(
+          (linear): Linear(in_features=192, out_features=192, bias=True)
+        )
+        (bn): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (bn_node_h): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (5): GINLayer(
+      (apply_func): ApplyNodeFunc(
+        (mlp): MLP(
+          (linear): Linear(in_features=192, out_features=192, bias=True)
+        )
+        (bn): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (bn_node_h): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (6): GINLayer(
+      (apply_func): ApplyNodeFunc(
+        (mlp): MLP(
+          (linear): Linear(in_features=192, out_features=192, bias=True)
+        )
+        (bn): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (bn_node_h): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (7): GINLayer(
+      (apply_func): ApplyNodeFunc(
+        (mlp): MLP(
+          (linear): Linear(in_features=192, out_features=192, bias=True)
+        )
+        (bn): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (bn_node_h): BatchNorm1d(192, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+  (embedding_h): Linear(in_features=23, out_features=192, bias=True)
+  (linears_prediction): ModuleList(
+    (0): Linear(in_features=192, out_features=2, bias=True)
+    (1): Linear(in_features=192, out_features=2, bias=True)
+    (2): Linear(in_features=192, out_features=2, bias=True)
+    (3): Linear(in_features=192, out_features=2, bias=True)
+    (4): Linear(in_features=192, out_features=2, bias=True)
+    (5): Linear(in_features=192, out_features=2, bias=True)
+    (6): Linear(in_features=192, out_features=2, bias=True)
+    (7): Linear(in_features=192, out_features=2, bias=True)
+    (8): Linear(in_features=192, out_features=2, bias=True)
+  )
+  (pool): SumPooling()
+)
+
+Total Parameters: 310682
+
+
+    FINAL RESULTS
+TEST ACCURACY averaged: nan with s.d. nan
+TRAIN ACCURACY averaged: nan with s.d. nan
+
+
+    Total Time Taken: 0.0034 hrs
+Average Time Per Epoch: nan s
+
+
+All Splits Test Accuracies: []
