@@ -1,3 +1,5 @@
+Repository for comparing different graph representations with graph convolutional neural networks. Copyright (C) 2020, Jeroen Baars, Pim Wassenaar. This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>. Also add information on how to contact you by electronic and paper mail. If the program does terminal interaction, make it output a short notice like this when it starts in an interactive mode: RIVM_GNN Copyright (C) 2020 Jeroen Baars.
+	
 ### Preprocess
 	Benchmark_Data - create datasets for all representations
 	MACCS_SOMS - RF and SVM classifiers for data with and without SOMS
